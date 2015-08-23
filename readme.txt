@@ -2,8 +2,8 @@
 Contributors: butterflymedia
 License: GPLv3
 Requires at least: 3.8
-Tested up to: 4.1.1
-Stable tag: 2.2.3
+Tested up to: 4.3
+Stable tag: 2.2.4
 Tags: tracking, click, statistics, analytics, counter
 
 == Description ==
@@ -17,6 +17,9 @@ Clicker Counter allows you to track clicks on file extensions or classes. All cl
 4. A new Clicker Counter menu will appear in WordPress with options and general help
 
 == Changelog ==
+
+= 2.2.4 =
+* UPDATE: Updated WordPress compatibility
 
 = 2.2.3 =
 * UPDATE: Updated version, WordPress compatibility and plugin URL

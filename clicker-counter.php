@@ -3,7 +3,7 @@
 Plugin Name: Clicker Counter
 Plugin URI: http://getbutterfly.com/wordpress-plugins-free/
 Description: Clicker Counter allows you to track clicks on file extensions or classes. All clicks are logged and ordered by amount.
-Version: 2.2.3
+Version: 2.2.4
 Author: Ciprian Popescu
 Author URI: http://getbutterfly.com/
 License: GPLv2
@@ -11,7 +11,7 @@ License: GPLv2
 
 define('CC_PLUGIN_URL', WP_PLUGIN_URL . '/' . dirname(plugin_basename(__FILE__)));
 define('CC_PLUGIN_PATH', WP_PLUGIN_DIR . '/' . dirname(plugin_basename(__FILE__)));
-define('CC_PLUGIN_VERSION', '2.2.3');
+define('CC_PLUGIN_VERSION', '2.2.4');
 
 function ClickerCounter_init() {
 	add_option('cc_filetype', '');
